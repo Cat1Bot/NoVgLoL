@@ -1,5 +1,5 @@
 > [!Warning]
-> This may cause you to get vanguard event in game since you dont have a anticheat session when launching League through this tool.
+> This may cause you to get vanguard event in game since you dont have a anticheat session when using this tool.
 
 # NoVgLoL
 Small tool to suppress VAN errors in League Client and disables enforcement of Vanguard for both MacOS and Windows. Also disables client telemetry and removes bloatware.
