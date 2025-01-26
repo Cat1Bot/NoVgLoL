@@ -1,5 +1,5 @@
 # NoVgLoL
-Small tool to suppress VAN errors in League Client and disables enforcement of Vanguard for both MacOS and Windows.
+Small tool to suppress VAN errors in League Client and disables enforcement of Vanguard for both MacOS and Windows. Also disables client telemetry and removes bloatware.
 
 # Usage
 On Windows just run the exe. On MacOS, you need to make the file executable, to do this, cd to the directory its located in, then run the following command:
