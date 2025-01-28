@@ -12,4 +12,4 @@ chmod +x NoVgLoL
 ### Arguments
 **--strict** : restores older League Client version without embedded Vanguard module on MacOS in addition to just suppressing errors.
 
-**--norestart** : use this if you dont want to use the vanguard disabler but instead what to bypass the Riot Client prompt to restart your PC in order to play.
+**--norestart** : use this if you dont want to use the vanguard disabler but instead want to bypass the Riot Client prompt to restart your PC in order to play.
